@@ -1,0 +1,1 @@
+"use strict";(self["webpackChunkkalyrocktimetable"]=self["webpackChunkkalyrocktimetable"]||[]).push([[221],{844:function(e){e.exports=JSON.parse('{"label":{"from":"Depuis","to":"Vers","when":"Quand","search":"Rechercher"}}')}}]);
